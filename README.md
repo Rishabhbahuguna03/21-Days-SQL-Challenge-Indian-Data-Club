@@ -56,14 +56,14 @@ Participating in this challenge has helped me:
 ---
 
 ## 🌟 Acknowledgements  
-Special thanks to **Indian Data Club (IDC)** for hosting such an engaging challenge and motivating data enthusiasts to learn and grow every day.  
+Special thanks to @Indian Data Club and @DPDZero for hosting such an engaging challenge and motivating data enthusiasts to learn and grow every day.  
 
 ---
 
 ## 📬 Contact  
 **S.K. Mruduvani**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/s.k.mruduvani)  
-- ✉️ your.email@example.com  
+- ✉️ your.email@example.com
 
 ---
 
