@@ -1,5 +1,4 @@
 /* Practice Questions */
-
 /* 1. Join patients, staff, and staff_schedule to show patient service and staff availability.*/
 SELECT 
     p.patient_id,p.service,s.staff_name,ss.week,ss.present
