@@ -55,7 +55,4 @@ Special thanks to @Indian Data Club and @DPDZero for hosting such an engaging ch
 ## 📬 Contact  
 **S.K. Mruduvani**  
 - 💼 [LinkedIn](https://www.linkedin.com/in/s.k.mruduvani)  
-- ✉️ your.email@example.com
-
-
-> *“Practice one SQL question a day, and in 21 days you’ll see data differently.”*
+- ✉️ s.mruduvani@gmail.com
